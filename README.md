@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### - 🌱 I have graduated from Shenzhen Middle School in 2019
-#### - 😄 I’m currently studying at Huazhong University of Science and Technology
+#### - ✨ I’m currently studying at Huazhong University of Science and Technology
 #### - I'm currious about machine learning,mathematics
 #### - 😄 Happy life and make progress every day
 
