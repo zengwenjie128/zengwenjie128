@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**zengwenjie128/zengwenjie128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zengwenjie128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### - 🌱 I’m currently studying at Huazhong University of Science and Technology
+#### - I'm currious about machine learning,mathematics
+#### - 😄 Happy life and make progress every day
+
+![](https://visitor-badge.glitch.me/badge?page_id=zengwenjie128)
+
+![](http://antzuhl.cn:4000/get/@zengwenjie128)
+
+![info](https://github-readme-stats.vercel.app/api?username=zengwenjie128&show_icons=true&count_private=true&hide=prs&theme=synthwave)
